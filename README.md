@@ -76,3 +76,8 @@ xgboost
 matplotlib
 seaborn                                        
 joblib
+```
+---
+
+## To install all dependencies in another environment or system
+pip install -r requirements.txt
